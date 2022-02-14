@@ -1,6 +1,6 @@
 # Legion Tokens Multiplatform Testing
 
-Design token for native platform to defined in components
+Design token for native platform to import in components
 
 ## Android
 
