@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 16:50:41 GMT
+// Generated on Mon, 14 Feb 2022 17:24:37 GMT
 
 
 
@@ -106,12 +106,12 @@ object StyleDictionaryColor {
   val colorBaseYellow900 = Color(0xff744210)
   val colorButtonSoftActive = Color(0xfffbd38d)
   val colorButtonSoftBackgroundColor = Color(0xfffffaf0)
-  val colorButtonSoftDisabled = Color(0xffe2e8f0)
+  val colorButtonSoftDisabled = Color(0xff000000)
   val colorButtonSoftFocus = Color(0xfffffaf0)
   val colorButtonSoftHover = Color(0xfffeebc8)
   val colorButtonSolidActive = Color(0xffc05621)
   val colorButtonSolidBackgroundColor = Color(0xffed8936)
-  val colorButtonSolidDisabled = Color(0xffe2e8f0)
+  val colorButtonSolidDisabled = Color(0xff000000)
   val colorButtonSolidFocus = Color(0xffed8936)
   val colorButtonSolidHover = Color(0xffdd6b20)
   val colorPrimary1 = Color(0xffed8936)

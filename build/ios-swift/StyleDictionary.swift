@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 16:50:41 GMT
+// Generated on Mon, 14 Feb 2022 17:24:37 GMT
 
 
 import UIKit
@@ -104,12 +104,12 @@ public class StyleDictionary {
     public static let colorBaseYellow900 = UIColor(red: 0.455, green: 0.259, blue: 0.063, alpha: 1)
     public static let colorButtonSoftActive = UIColor(red: 0.984, green: 0.827, blue: 0.553, alpha: 1)
     public static let colorButtonSoftBackgroundColor = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
-    public static let colorButtonSoftDisabled = UIColor(red: 0.886, green: 0.910, blue: 0.941, alpha: 1)
+    public static let colorButtonSoftDisabled = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorButtonSoftFocus = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
     public static let colorButtonSoftHover = UIColor(red: 0.996, green: 0.922, blue: 0.784, alpha: 1)
     public static let colorButtonSolidActive = UIColor(red: 0.753, green: 0.337, blue: 0.129, alpha: 1)
     public static let colorButtonSolidBackgroundColor = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)
-    public static let colorButtonSolidDisabled = UIColor(red: 0.886, green: 0.910, blue: 0.941, alpha: 1)
+    public static let colorButtonSolidDisabled = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorButtonSolidFocus = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)
     public static let colorButtonSolidHover = UIColor(red: 0.867, green: 0.420, blue: 0.125, alpha: 1)
     public static let colorPrimary1 = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)
@@ -122,6 +122,10 @@ public class StyleDictionary {
     public static let colorSecondary4 = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)
     public static let colorTertiary1 = UIColor(red: 0.886, green: 0.910, blue: 0.941, alpha: 1)
     public static let colorTertiary2 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let sizeButtonPaddingBottom = CGFloat(8.00)
+    public static let sizeButtonPaddingLeft = CGFloat(16.00)
+    public static let sizeButtonPaddingRight = CGFloat(16.00)
+    public static let sizeButtonPaddingTop = CGFloat(8.00)
     public static let sizeButtonRadiusLg = CGFloat(8.00)
     public static let sizeButtonRadiusSm = CGFloat(4.00)
     public static let sizeButtonRadiusXl = CGFloat(300.00)

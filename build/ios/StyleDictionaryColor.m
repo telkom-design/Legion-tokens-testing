@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 16:50:41 GMT
+// Generated on Mon, 14 Feb 2022 17:24:37 GMT
 
 
 #import "StyleDictionaryColor.h"
@@ -117,12 +117,12 @@
 [UIColor colorWithRed:0.867f green:0.420f blue:0.125f alpha:1.000f],
 [UIColor colorWithRed:0.753f green:0.337f blue:0.129f alpha:1.000f],
 [UIColor colorWithRed:0.929f green:0.537f blue:0.212f alpha:1.000f],
-[UIColor colorWithRed:0.886f green:0.910f blue:0.941f alpha:1.000f],
+[UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:0.980f blue:0.941f alpha:1.000f],
 [UIColor colorWithRed:0.996f green:0.922f blue:0.784f alpha:1.000f],
 [UIColor colorWithRed:0.984f green:0.827f blue:0.553f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:0.980f blue:0.941f alpha:1.000f],
-[UIColor colorWithRed:0.886f green:0.910f blue:0.941f alpha:1.000f],
+[UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
 [UIColor colorWithRed:0.929f green:0.537f blue:0.212f alpha:1.000f],
 [UIColor colorWithRed:0.867f green:0.420f blue:0.125f alpha:1.000f],
 [UIColor colorWithRed:0.753f green:0.337f blue:0.129f alpha:1.000f],

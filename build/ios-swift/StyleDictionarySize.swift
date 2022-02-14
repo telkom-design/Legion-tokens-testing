@@ -4,12 +4,16 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 16:50:41 GMT
+// Generated on Mon, 14 Feb 2022 17:24:37 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
+    public static let buttonPaddingBottom = CGFloat(8.00)
+    public static let buttonPaddingLeft = CGFloat(16.00)
+    public static let buttonPaddingRight = CGFloat(16.00)
+    public static let buttonPaddingTop = CGFloat(8.00)
     public static let buttonRadiusLg = CGFloat(8.00)
     public static let buttonRadiusSm = CGFloat(4.00)
     public static let buttonRadiusXl = CGFloat(300.00)

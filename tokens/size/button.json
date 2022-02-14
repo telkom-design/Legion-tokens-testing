@@ -11,6 +11,20 @@
         "xl": {
           "value": "18.75rem"
         }
+      },
+      "padding": {
+        "top": {
+          "value": "0.5rem"
+        },
+        "bottom": {
+          "value": "0.5rem"
+        },
+        "left": {
+          "value": "1rem"
+        },
+        "right": {
+          "value": "1rem"
+        }
       }
     }
   }

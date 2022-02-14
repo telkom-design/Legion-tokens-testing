@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 14 Feb 2022 16:50:41 GMT
+  Generated on Mon, 14 Feb 2022 17:24:37 GMT
 -->
 <resources>
   <color name="color_base_black">#ff000000</color>
@@ -101,12 +101,12 @@
   <color name="color_button_solid_hover">#ffdd6b20</color>
   <color name="color_button_solid_active">#ffc05621</color>
   <color name="color_button_solid_focus">#ffed8936</color>
-  <color name="color_button_solid_disabled">#ffe2e8f0</color>
+  <color name="color_button_solid_disabled">#ff000000</color>
   <color name="color_button_soft_background_color">#fffffaf0</color>
   <color name="color_button_soft_hover">#fffeebc8</color>
   <color name="color_button_soft_active">#fffbd38d</color>
   <color name="color_button_soft_focus">#fffffaf0</color>
-  <color name="color_button_soft_disabled">#ffe2e8f0</color>
+  <color name="color_button_soft_disabled">#ff000000</color>
   <color name="color_primary_1">#ffed8936</color>
   <color name="color_primary_2">#ffdd6b20</color>
   <color name="color_primary_3">#ffc05621</color>

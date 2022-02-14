@@ -1,0 +1,16 @@
+{
+    "color": {
+        "button":{
+            "solid": {
+                "_disabled": {
+                    "value": "{color.tertiary.2}"
+                }
+            },
+            "soft": {
+                "_disabled": {
+                    "value": "{color.tertiary.2}"
+                }
+            }
+        }
+    }
+}

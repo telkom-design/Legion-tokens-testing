@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 16:50:41 GMT
+// Generated on Mon, 14 Feb 2022 17:24:37 GMT
 
 
 import UIKit
@@ -104,12 +104,12 @@ public enum StyleDictionaryColor {
     public static let baseYellow900 = UIColor(red: 0.455, green: 0.259, blue: 0.063, alpha: 1)
     public static let buttonSoftActive = UIColor(red: 0.984, green: 0.827, blue: 0.553, alpha: 1)
     public static let buttonSoftBackgroundColor = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
-    public static let buttonSoftDisabled = UIColor(red: 0.886, green: 0.910, blue: 0.941, alpha: 1)
+    public static let buttonSoftDisabled = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let buttonSoftFocus = UIColor(red: 1.000, green: 0.980, blue: 0.941, alpha: 1)
     public static let buttonSoftHover = UIColor(red: 0.996, green: 0.922, blue: 0.784, alpha: 1)
     public static let buttonSolidActive = UIColor(red: 0.753, green: 0.337, blue: 0.129, alpha: 1)
     public static let buttonSolidBackgroundColor = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)
-    public static let buttonSolidDisabled = UIColor(red: 0.886, green: 0.910, blue: 0.941, alpha: 1)
+    public static let buttonSolidDisabled = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let buttonSolidFocus = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)
     public static let buttonSolidHover = UIColor(red: 0.867, green: 0.420, blue: 0.125, alpha: 1)
     public static let primary1 = UIColor(red: 0.929, green: 0.537, blue: 0.212, alpha: 1)

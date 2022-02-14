@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Mon, 14 Feb 2022 16:50:41 GMT
+// Generated on Mon, 14 Feb 2022 17:24:37 GMT
 
 
 
@@ -12,6 +12,10 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionarySize {
+  val sizeButtonPaddingBottom = 8.00.dp
+  val sizeButtonPaddingLeft = 16.00.dp
+  val sizeButtonPaddingRight = 16.00.dp
+  val sizeButtonPaddingTop = 8.00.dp
   val sizeButtonRadiusLg = 8.00.dp
   val sizeButtonRadiusSm = 4.00.dp
   val sizeButtonRadiusXl = 300.00.dp
