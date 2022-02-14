@@ -1,0 +1,17 @@
+{
+  "size": {
+    "button": {
+      "radius": {
+        "sm": {
+          "value": "0.25rem"
+        },
+        "lg": {
+          "value": "0.5rem"
+        },
+        "xl": {
+          "value": "18.75rem"
+        }
+      }
+    }
+  }
+}

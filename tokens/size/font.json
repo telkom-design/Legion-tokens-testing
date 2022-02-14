@@ -10,17 +10,6 @@
       "h4": {"value": "1.375rem"},
       "h5": {"value": "1.25rem"},
       "h6": {"value": "1.125rem"}
-    },
-    "radius": {
-      "sm": {
-        "value": "0.25rem"
-      },
-      "lg": {
-        "value": "0.5rem"
-      },
-      "xl": {
-        "value": "18.75rem"
-      }
     }
   }
 }
