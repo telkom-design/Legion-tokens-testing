@@ -1,6 +1,6 @@
 # Legion Tokens Multiplatform Testing
 
-We choose native platform token to define in components itself
+Design token for native platform to defined in components
 
 ## Android
 
