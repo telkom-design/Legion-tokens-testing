@@ -1,0 +1,26 @@
+{
+  "size": {
+    "font": {
+      "base": {"value": "1rem"},
+      "sm": {"value": "0.875rem"},
+      "xs": {"value": "0.75rem"},
+      "h1": {"value": "2.125rem"},
+      "h2": {"value": "1.75rem"},
+      "h3": {"value": "1.5rem"},
+      "h4": {"value": "1.375rem"},
+      "h5": {"value": "1.25rem"},
+      "h6": {"value": "1.125rem"}
+    },
+    "radius": {
+      "sm": {
+        "value": "0.25rem"
+      },
+      "lg": {
+        "value": "0.5rem"
+      },
+      "xl": {
+        "value": "18.75rem"
+      }
+    }
+  }
+}

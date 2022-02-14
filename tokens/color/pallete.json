@@ -1,0 +1,40 @@
+{
+  "color": {
+    "primary": {
+      "1": {
+        "value": "{color.base.orange.500}"
+      },
+      "2": {
+        "value": "{color.base.orange.600}"
+      },
+      "3": {
+        "value": "{color.base.orange.700}"
+      },
+      "4": {
+        "value": "{color.base.white}"
+      }
+    },
+    "secondary": {
+      "1": {
+        "value": "{color.base.orange.100}"
+      },
+      "2": {
+        "value": "{color.base.orange.200}"
+      },
+      "3": {
+        "value": "{color.base.orange.300}"
+      },
+      "4": {
+        "value": "{color.base.orange.500}"
+      }
+    },
+    "tertiary": {
+      "1": {
+        "value": "{color.base.gray.300}"
+      },
+      "2": {
+        "value": "{color.base.black}"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+
+//
+// StyleDictionarySize.swift
+//
+
+// Do not edit directly
+// Generated on Mon, 14 Feb 2022 16:41:47 GMT
+
+
+import UIKit
+
+public enum StyleDictionarySize {
+    public static let fontBase = CGFloat(16.00)
+    public static let fontH1 = CGFloat(34.00)
+    public static let fontH2 = CGFloat(28.00)
+    public static let fontH3 = CGFloat(24.00)
+    public static let fontH4 = CGFloat(22.00)
+    public static let fontH5 = CGFloat(20.00)
+    public static let fontH6 = CGFloat(18.00)
+    public static let fontSm = CGFloat(14.00)
+    public static let fontXs = CGFloat(12.00)
+    public static let radiusLg = CGFloat(8.00)
+    public static let radiusSm = CGFloat(4.00)
+    public static let radiusXl = CGFloat(300.00)
+}
